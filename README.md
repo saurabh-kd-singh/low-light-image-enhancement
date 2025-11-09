@@ -7,8 +7,8 @@
 ## 📁 Contents
 
 - `code_v1.ipynb`, `code_v2.ipynb` — training/inference notebooks  
-- `best_model.keras` — trained model *(consider removing large models from repo)*  
-- `data_root/` — dataset *(not recommended to include large datasets in repo)*  
+- `best_model.keras` — trained model 
+- `data_root/` — dataset 
 - `inference_results/`, `training_runs/`, `training_log_plot.png`
 
 ---
